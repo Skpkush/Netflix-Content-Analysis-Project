@@ -1,6 +1,8 @@
 
 ## Netflix Content Analysis Project
 
+
+
 ### Project Overview:
 The Netflix Content Analysis project was designed to explore various facets of Netflix's expansive content library, focusing on extracting meaningful insights about the platform's movies and TV shows. By analyzing the dataset, which contains information about content titles, types (movies or TV shows), release dates, countries of origin, genres, directors, and more, the project aims to uncover trends, identify patterns, and provide a detailed view of Netflix's offerings.
 
